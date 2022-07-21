@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MathCore.WPF.Styles/0.0.1": {
+        "runtime": {
+          "MathCore.WPF.Styles.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MathCore.WPF.Styles/0.0.1": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

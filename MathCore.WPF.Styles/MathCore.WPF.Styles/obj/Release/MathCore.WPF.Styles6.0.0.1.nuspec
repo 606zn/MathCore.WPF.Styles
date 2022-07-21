@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>MathCore.WPF.Styles6</id>
+    <version>0.0.1</version>
+    <authors>Styles6</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <projectUrl>https://github.com/606zn/MathCore.WPF.Styles</projectUrl>
+    <description>Пакет содержит стили и шаблоны элементов управления WPF под .NET 3.1</description>
+    <releaseNotes>Старт проекта</releaseNotes>
+    <copyright>wpf6</copyright>
+    <tags>WPF, Styles, Templates</tags>
+    <repository url="https://github.com/606zn/MathCore.WPF.Styles" />
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework=".NETCoreApp3.1">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WPF" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="E:\Lib\Math.Core\MathCore.WPF.Styles\MathCore.WPF.Styles\bin\Release\netcoreapp3.1\MathCore.WPF.Styles.dll" target="lib\netcoreapp3.1\MathCore.WPF.Styles.dll" />
+  </files>
+</package>

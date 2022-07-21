@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GOhraWalFEClPhhfCkwY2y2OJFjDhVxCy3qZidCDlMMtXWUGbkjYRjl4qkzyqhAw9s+K/k4RZJHtBDEwncBdhw==",
+  "success": true,
+  "projectFilePath": "E:\\Lib\\Math.Core\\MathCore.WPF.Styles\\MathCore.WPF.Styles\\MathCore.WPF.Styles.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Администратор\\.nuget\\packages\\mathcore.wpf.styles\\0.0.2\\mathcore.wpf.styles.0.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

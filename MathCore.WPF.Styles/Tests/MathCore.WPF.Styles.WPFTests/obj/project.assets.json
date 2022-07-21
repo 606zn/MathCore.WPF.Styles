@@ -1,0 +1,123 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MathCore.WPF.Styles/0.0.2": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp3.1/MathCore.WPF.Styles.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/MathCore.WPF.Styles.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "MathCore.WPF.Styles6/0.0.1": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "MathCore.WPF.Styles": "0.0.2"
+        },
+        "compile": {
+          "bin/placeholder/MathCore.WPF.Styles6.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MathCore.WPF.Styles6.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      }
+    }
+  },
+  "libraries": {
+    "MathCore.WPF.Styles/0.0.2": {
+      "sha512": "fK2OcKQYJ9CW4QSwKEfzADgh+L2WwMM8BNNyt/+nFEqZEz388FKkvccsVE/ks5IwH6mvHwD508EOaPa7ylE1xg==",
+      "type": "package",
+      "path": "mathcore.wpf.styles/0.0.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netcoreapp3.1/MathCore.WPF.Styles.dll",
+        "mathcore.wpf.styles.0.0.2.nupkg.sha512",
+        "mathcore.wpf.styles.nuspec"
+      ]
+    },
+    "MathCore.WPF.Styles6/0.0.1": {
+      "type": "project",
+      "path": "../../MathCore.WPF.Styles/MathCore.WPF.Styles.csproj",
+      "msbuildProject": "../../MathCore.WPF.Styles/MathCore.WPF.Styles.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "MathCore.WPF.Styles6 >= 0.0.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Администратор\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\Lib\\Math.Core\\MathCore.WPF.Styles\\Tests\\MathCore.WPF.Styles.WPFTests\\MathCore.WPF.Styles.WPFTests.csproj",
+      "projectName": "MathCore.WPF.Styles.WPFTests",
+      "projectPath": "E:\\Lib\\Math.Core\\MathCore.WPF.Styles\\Tests\\MathCore.WPF.Styles.WPFTests\\MathCore.WPF.Styles.WPFTests.csproj",
+      "packagesPath": "C:\\Users\\Администратор\\.nuget\\packages\\",
+      "outputPath": "E:\\Lib\\Math.Core\\MathCore.WPF.Styles\\Tests\\MathCore.WPF.Styles.WPFTests\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Администратор\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "E:\\Lib\\Math.Core\\MathCore.WPF.Styles\\MathCore.WPF.Styles\\MathCore.WPF.Styles.csproj": {
+              "projectPath": "E:\\Lib\\Math.Core\\MathCore.WPF.Styles\\MathCore.WPF.Styles\\MathCore.WPF.Styles.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

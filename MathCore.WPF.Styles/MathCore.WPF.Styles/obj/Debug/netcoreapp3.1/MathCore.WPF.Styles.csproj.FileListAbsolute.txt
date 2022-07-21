@@ -1,0 +1,13 @@
+E:\Lib\Math.Core\MathCore.WPF.Styles\MathCore.WPF.Styles\bin\Debug\netcoreapp3.1\MathCore.WPF.Styles.deps.json
+E:\Lib\Math.Core\MathCore.WPF.Styles\MathCore.WPF.Styles\bin\Debug\netcoreapp3.1\MathCore.WPF.Styles.dll
+E:\Lib\Math.Core\MathCore.WPF.Styles\MathCore.WPF.Styles\bin\Debug\netcoreapp3.1\MathCore.WPF.Styles.pdb
+E:\Lib\Math.Core\MathCore.WPF.Styles\MathCore.WPF.Styles\obj\Debug\netcoreapp3.1\MathCore.WPF.Styles.csproj.AssemblyReference.cache
+E:\Lib\Math.Core\MathCore.WPF.Styles\MathCore.WPF.Styles\obj\Debug\netcoreapp3.1\MathCore.WPF.Styles.GeneratedMSBuildEditorConfig.editorconfig
+E:\Lib\Math.Core\MathCore.WPF.Styles\MathCore.WPF.Styles\obj\Debug\netcoreapp3.1\MathCore.WPF.Styles.AssemblyInfoInputs.cache
+E:\Lib\Math.Core\MathCore.WPF.Styles\MathCore.WPF.Styles\obj\Debug\netcoreapp3.1\MathCore.WPF.Styles.AssemblyInfo.cs
+E:\Lib\Math.Core\MathCore.WPF.Styles\MathCore.WPF.Styles\obj\Debug\netcoreapp3.1\MathCore.WPF.Styles.csproj.CoreCompileInputs.cache
+E:\Lib\Math.Core\MathCore.WPF.Styles\MathCore.WPF.Styles\obj\Debug\netcoreapp3.1\MathCore.WPF.Styles.dll
+E:\Lib\Math.Core\MathCore.WPF.Styles\MathCore.WPF.Styles\obj\Debug\netcoreapp3.1\MathCore.WPF.Styles.pdb
+E:\Lib\Math.Core\MathCore.WPF.Styles\MathCore.WPF.Styles\obj\Debug\netcoreapp3.1\Styles\TextBoxes\TaggedTextBox.baml
+E:\Lib\Math.Core\MathCore.WPF.Styles\MathCore.WPF.Styles\obj\Debug\netcoreapp3.1\MathCore.WPF.Styles_MarkupCompile.cache
+E:\Lib\Math.Core\MathCore.WPF.Styles\MathCore.WPF.Styles\obj\Debug\netcoreapp3.1\MathCore.WPF.Styles.g.resources

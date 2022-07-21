@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MathCore.WPF.Styles.WPFTests/1.0.0": {
+        "dependencies": {
+          "MathCore.WPF.Styles6": "0.0.1"
+        },
+        "runtime": {
+          "MathCore.WPF.Styles.WPFTests.dll": {}
+        }
+      },
+      "MathCore.WPF.Styles/0.0.2": {
+        "runtime": {
+          "lib/netcoreapp3.1/MathCore.WPF.Styles.dll": {
+            "assemblyVersion": "0.0.2.0",
+            "fileVersion": "0.0.2.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MathCore.WPF.Styles.WPFTests/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MathCore.WPF.Styles/0.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fK2OcKQYJ9CW4QSwKEfzADgh+L2WwMM8BNNyt/+nFEqZEz388FKkvccsVE/ks5IwH6mvHwD508EOaPa7ylE1xg==",
+      "path": "mathcore.wpf.styles/0.0.2",
+      "hashPath": "mathcore.wpf.styles.0.0.2.nupkg.sha512"
+    }
+  }
+}

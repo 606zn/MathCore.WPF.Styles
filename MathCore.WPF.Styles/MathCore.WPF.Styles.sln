@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MathCore.WPF.Styles", "MathCore.WPF.Styles\MathCore.WPF.Styles.csproj", "{E094569B-0349-4E06-9BDE-7160E63238CA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{324414E3-2F76-48A8-8F22-015BF2819365}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MathCore.WPF.Styles.WPFTests", "Tests\MathCore.WPF.Styles.WPFTests\MathCore.WPF.Styles.WPFTests.csproj", "{FCA79A6B-E720-49B0-BED3-9B7DDDEC237B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathCore.WPF.Styles.Tests", "Tests\MathCore.WPF.Styles.Tests\MathCore.WPF.Styles.Tests.csproj", "{139BE219-9AA9-4FFA-A516-EA81AB810C4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E094569B-0349-4E06-9BDE-7160E63238CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E094569B-0349-4E06-9BDE-7160E63238CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E094569B-0349-4E06-9BDE-7160E63238CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E094569B-0349-4E06-9BDE-7160E63238CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCA79A6B-E720-49B0-BED3-9B7DDDEC237B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCA79A6B-E720-49B0-BED3-9B7DDDEC237B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCA79A6B-E720-49B0-BED3-9B7DDDEC237B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCA79A6B-E720-49B0-BED3-9B7DDDEC237B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{139BE219-9AA9-4FFA-A516-EA81AB810C4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{139BE219-9AA9-4FFA-A516-EA81AB810C4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{139BE219-9AA9-4FFA-A516-EA81AB810C4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{139BE219-9AA9-4FFA-A516-EA81AB810C4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{139BE219-9AA9-4FFA-A516-EA81AB810C4E} = {324414E3-2F76-48A8-8F22-015BF2819365}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD408CE6-238A-43FA-BAEC-A8FBC3512BC3}
+	EndGlobalSection
+EndGlobal

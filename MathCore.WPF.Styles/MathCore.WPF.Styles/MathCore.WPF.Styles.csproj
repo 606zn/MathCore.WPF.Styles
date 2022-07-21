@@ -1,0 +1,42 @@
+<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <LangVersion>latest</LangVersion>
+    <PackageId>MathCore.WPF.Styles6</PackageId>
+    
+    
+    
+  </PropertyGroup>
+	
+	<PropertyGroup>
+		<Version>0.0.1</Version>
+		<PackageReleaseNotes>Старт проекта</PackageReleaseNotes>
+	</PropertyGroup>
+	
+	<PropertyGroup>
+		<Authors>Styles6</Authors>
+		<Company>wpf6</Company>
+		<Description>Пакет содержит стили и шаблоны элементов управления WPF под .NET 3.1</Description>
+		<Product>WPF.Styles</Product>
+		<PackageLicenseExpression>MIT</PackageLicenseExpression>
+		<Copyright>wpf6</Copyright>
+		<PackageProjectUrl>https://github.com/606zn/MathCore.WPF.Styles</PackageProjectUrl>
+		<RepositoryUrl>https://github.com/606zn/MathCore.WPF.Styles</RepositoryUrl>
+		<PackageTags>WPF, Styles, Templates</PackageTags>
+
+	</PropertyGroup>
+	
+	<PropertyGroup>
+	  <Version>0.0.1</Version>
+	  <SignAssembly>true</SignAssembly>
+	  <AssemblyOriginatorKeyFile>MathCore.WPF.Styles.snk</AssemblyOriginatorKeyFile>
+		<SymbolPakageFormat>snupkg</SymbolPakageFormat>
+	</PropertyGroup>
+	
+	<ItemGroup>
+	  <PackageReference Include="MathCore.WPF.Styles" Version="0.0.2" />
+	</ItemGroup>
+
+</Project>
