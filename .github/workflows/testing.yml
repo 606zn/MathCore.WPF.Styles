@@ -10,12 +10,11 @@ jobs:
     steps:
       uses: actions/checkout@v2
       
-    - name: Use .NET 3.1.301
-      uses: actions/setup-dotnet@v1 
-      with:
-       dotnet-version: 3.01.301
+    -name: Use.NET 3.01.301
+      uses:actions/setup-dotnet@v1 
+      with:dotnet-version:3.01.301
         
-    - name: Install dependencies
+    -name: Install dependencies
       run: dotnet restore
       
     - name: Build
